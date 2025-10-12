@@ -5,7 +5,7 @@
 - 🎯 A passionate Full-Stack Developer from India.
 - 💡 Innovating at the intersection of AI & Web Development.
 - 🌱 Exploring: MERN stack | Backend with Node.js | Next.js and latest frontend trends.
-- 🔭 Currently building Interviewer – AI-powered mock interviews with instant feedback.
+- 🔭 Currently building Interviewer –- AI-powered mock interviews with instant feedback.
 - 🚀 Goal: Building scalable and secure web apps..
 - 📬 Reach me at: himanshu561hi@gmail.com
 
