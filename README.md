@@ -1,149 +1,226 @@
-# Hi there! 👋 I'm Himanshu
+# Hi 👋, I'm Himanshu Gupta
 
-## 🚀 Professional Summary 
+<h3 align="center">🚀 Full-Stack Developer | AI Builder | Backend Enthusiast</h3>
 
-- 🎯 A passionate Full-Stack Developer from India.
-- 💡 Innovating at the intersection of AI & Web Development.
-- 🌱 Exploring: MERN stack | Backend with Node.js | Next.js and latest frontend trends.
-- 🔭 Currently building Interviewer –- AI-powered mock interviews with instant feedback.
-- 🚀 Goal: Building scalable and secure web apps..
-- 📬 Reach me at:: himanshu561hi@gmail.com
+<p align="center">
+Building AI-powered applications and scalable web solutions.
+</p>
 
-##
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshu561hi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Engineer from India
+- 💻 Passionate Full-Stack Developer
+- 🤖 Building AI-powered products and tools
+- 🚀 Currently developing **Interviewer AI** – AI-powered mock interviews with instant feedback
+- 🌱 Exploring AI Agents, Automation & Modern Web Technologies
+- 🔐 Interested in Backend Engineering, System Design & Scalable Architectures
+- ⚡ Love turning ideas into real-world products
+
+---
+
+## 🎯 Current Focus
+
+- 🎤 Building **Interviewer AI**
+- 🤖 AI Integrations with LLMs
+- ⚡ Backend Development using Node.js & Express
+- 🌐 Next.js & Modern React Applications
+- ☁️ Cloud Deployment & DevOps
+- 🔐 Authentication & Security
+
+---
+
+## 🏆 Featured Projects
+
+### 🎤 Interviewer AI
+
+AI-powered interview preparation platform that conducts mock interviews and provides intelligent feedback.
+
+**Tech Stack:** React, Node.js, Express, MongoDB, Gemini API
+
+### 🤖 AI Career Coach
+
+A career guidance platform that helps students discover suitable career paths using AI recommendations.
+
+**Tech Stack:** React, Node.js, MongoDB, Gemini API
+
+### 🌐 Personal Portfolio
+
+A modern portfolio website showcasing projects, skills, achievements and development journey.
+
+**Tech Stack:** React, Tailwind CSS
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 
 <p>
-  
-[![View WakaTime Stats](https://img.shields.io/badge/WakaTime-View%20More-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@himanshu561hi)
-
-
-[![wakatime](https://wakatime.com/badge/user/c5cdcb76-220d-4e7d-9df4-a954e883d5c0.svg)](https://wakatime.com/@c5cdcb76-220d-4e7d-9df4-a954e883d5c0)
-
-![](https://komarev.com/ghpvc/?username=himanshu561hi&color=green)
+  <img src="https://skillicons.dev/icons?i=js,python" />
 </p>
 
-## GitHub Stats 📊
-<table style="align: center">
-  <tr>
-    <td>
-      <a href="https://github.com/himanshu561hi">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=himanshu561hi&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
-          width="480"
-        />
-      </a>
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu561hi&theme=dark" 
-        width="480"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/himanshu561hi">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu561hi&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
-          width="480"
-        />
-      </a>
-    </td>
-    <td>
-    <!-- Profile Summary Card -->
-   </td>
-  </tr>  
-</table>
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
 </p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
+</p>
+
+### Operating Systems
+
+<p>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu561hi&theme=github-compact" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu561hi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu561hi&theme=tokyonight" height="180"/>
 </p>
+
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu561hi&theme=algolia" alt="Profile Summary Card" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu561hi&layout=compact&theme=tokyonight"/>
 </p>
 
-## 🚀 Technologies Used
+---
 
-<div align="center">
-  
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+## 📊 Coding Activity
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<p align="center">
+  <a href="https://wakatime.com/@himanshu561hi">
+    <img src="https://wakatime.com/badge/user/c5cdcb76-220d-4e7d-9df4-a954e883d5c0.svg"/>
+  </a>
+</p>
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+---
 
-</div>
+## 🏆 Achievements
 
-## 🖥️ Operating System
+- 🚀 Built multiple Full-Stack Web Applications
+- 🤖 Developing AI-Powered Products using LLMs
+- 💻 Strong Foundation in MERN Stack Development
+- 🌐 Experience in REST APIs & Backend Development
+- 🔥 Consistent GitHub Contributions
+- 📈 Continuously Improving DSA & Problem Solving Skills
+- ⚡ Building Real-World Projects instead of Tutorial Projects
 
-<div align="center">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+---
 
+## 📚 Currently Learning
 
+- System Design
+- Advanced Backend Engineering
+- AI Agents
+- Automation Workflows
+- Next.js
+- Scalable Web Architectures
+- Cloud Technologies
 
+---
 
-</div>
+## 🏅 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshu561hi&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
 
-## 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=himanshu561hi&theme=dracula&no-frame=true&margin-w=10&width=95%" alt="GitHub Trophies" />
-</div>
+---
 
-## 🏆 Holopin Badges 🌟
+## 🌟 Holopin Badges
 
-[![Holopin Badges](https://holopin.me/himanshu561hi)](https://holopin.io/@himanshu561hi)
+<p align="center">
+  <a href="https://holopin.io/@himanshu561hi">
+    <img src="https://holopin.me/himanshu561hi"/>
+  </a>
+</p>
 
-## Feel free to connect and explore my work. Let's make things happen! 🚀
+---
 
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu561hi&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/himanshu561hi/himanshu561hi/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 💭 Developer Philosophy
+
+> **Build. Learn. Improve. Repeat.**
+
+I believe in learning by building real-world products, solving practical problems, and continuously improving through consistency.
+
+---
 
 ## 🌐 Connect With Me
-<div align="center" style="background-color: #0D1117; padding: 80px; border-radius: 10px;">
+
+<p align="center">
   <a href="https://github.com/himanshu561hi">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=cyan" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
+
   <a href="https://linkedin.com/in/himanshu561hi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=cyan" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://instagram.com/_oye_himanshu/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=cyan" alt="Instagram">
+
+  <a href="https://instagram.com/_oye_himanshu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
+
   <a href="mailto:himanshu561hi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=cyan" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+
   <a href="https://himanshu561hi.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF6C37?logo=web&logoColor=cyan" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF6C37?style=for-the-badge"/>
   </a>
-  <a href="https://leetcode.com/himanshu561hi/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Profile">
+
+  <a href="https://leetcode.com/himanshu561hi">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
   </a>
-  <a href="https://drive.google.com/file/d/1QjXG6KJKuvYwekZN22QEqjW7a7u5lmTQ/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/Resume-0A66C2?logo=readme&logoColor=cyan" alt="Resume">
+
+  <a href="https://drive.google.com/file/d/1QjXG6KJKuvYwekZN22QEqjW7a7u5lmTQ/view">
+    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge"/>
   </a>
-</div>
+</p>
 
+---
 
-<img src="https://raw.githubusercontent.com/Yuvadi29/Yuvadi29/output/snake.svg" alt="Snake animation" width="100%" />
-
-
-
-
+<p align="center">
+  ⭐ If you like my work, consider following me and starring my repositories.
+</p>
