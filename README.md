@@ -27,7 +27,7 @@
     <td>
       <a href="https://github.com/himanshu561hi">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=himanshu561hi&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
+          src="[https://github-readme-stats.vercel.app/api?username=himanshu561hi&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28](https://github-readme-stats-sigma-five.vercel.app/api?username=himanshu561hi&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d0d1a)" 
           width="480"
         />
       </a>
