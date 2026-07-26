@@ -34,14 +34,13 @@ $ neofetch
 
 💡 LANGUAGES....... Java
                     JavaScript
-                    Python
-                    SQL
 
 🎨 FRONTEND........ HTML
                     CSS
                     React.js
                     Next.js
                     Tailwind CSS
+                    BootStrap
 
 ⚡ BACKEND......... Node.js
                     Express.js
@@ -56,8 +55,6 @@ $ neofetch
 ☁️ TOOLS........... Git
                     GitHub
                     Postman
-                    Docker
-                    Firebase
                     Vercel
                     Netlify
 
@@ -74,7 +71,7 @@ $ neofetch
 
 📧 EMAIL........... himanshu561hi@gmail.com
 
-🌐 WEBSITE......... https://himanshu561hi.netlify.app
+🌐 WEBSITE......... https://himanshu561hi.vercel.app
 
 💼 LINKEDIN........ https://linkedin.com/in/himanshu561hi
 
